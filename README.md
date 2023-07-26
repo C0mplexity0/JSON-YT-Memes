@@ -5,4 +5,4 @@ The files contain a series of video IDs (youtube.com/watch?v=\<ID\>) which can b
 
 The memes.json file contains the IDs in beautified format, and the memes.min.json file contains them in minified format.
 
-Current counter: ~1100 memes
+Current counter: ~1346 memes
